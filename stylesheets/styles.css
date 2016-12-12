@@ -780,9 +780,69 @@ dt {
   font-size: 11px;
 }
 
-.section_table_cell {
+.kollection_image_table_cell {
 	border: 0px;
 	text-align: center;
+
+}
+
+.kollection_image_table_cell img {
+	height: 225px;
+	width: 300px;
+}
+
+.kollection_text_table_cell {
+	border: 0px;
+	text-align: left;
+}
+
+.kollection_label {
+	font-weight: bold;
+	font-size: small;
+	font-family: "Trebuchet MS";
+}
+
+.kollection_value {
+	font-size: small;
+	font-family: "Trebuchet MS";
+}
+
+.linked_album {
+	border:2px solid #ffe000;
+	display:inline-block;
+	vertical-align:middle;
+}
+
+.linked_album img {
+	vertical-align:middle;
+}
+
+.switchgear_table_cell {
+	border: 0px;
+	text-align: center;
+}
+
+.switchgear_table_cell img{
+	height: 112px;
+	width: 150px;
+}
+
+.switchgear_text {
+	text-align:left; 
+	margin: 30px 0px;
+}
+
+.switchgear_header {
+	margin: 5px 0px;
+	font-size:2em;
+	text-align:center;
+}
+
+.switchgear_grid_box {
+	border: 1px #757575 dashed;
+	background-color: #151515;
+	margin-bottom:45px;
+	padding: 10px 0px;
 }
 
 .favorite_link {
@@ -794,6 +854,17 @@ dt {
 	display:inline-block;
 }
 
+.tight_table {
+	margin: 0px;
+}
+
+.logo {
+	text-align:center;
+}
+
+.main_body {
+	text-align:center;
+}
 a:hover .favorite_link {
 	background-color: #0e0e0e;
 }
