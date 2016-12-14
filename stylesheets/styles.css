@@ -787,8 +787,8 @@ dt {
 }
 
 .kollection_image_table_cell img {
-	height: 225px;
-	width: 300px;
+	height: 100%;
+	width: 100%;
 }
 
 .kollection_text_table_cell {
@@ -796,20 +796,21 @@ dt {
 	text-align: left;
 }
 
-.kollection_label {
+.kollection_model {
 	font-weight: bold;
 	font-size: small;
 	font-family: "Trebuchet MS";
 }
 
-.kollection_value {
+.kollection_description {
+	font-style: italic;
 	font-size: small;
 	font-family: "Trebuchet MS";
 }
 
 .linked_album {
 	border:2px solid #ffe000;
-	display:inline-block;
+	display:block;
 	vertical-align:middle;
 }
 
