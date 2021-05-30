@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="113f7bd7-c6f2-4df4-8596-24c8aba9bcd1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/redesign/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/bg_road_header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/redesign/images/bg_road_header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/kz_logo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/redesign/images/kz_logo2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/redesign/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +55,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/switchgear.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
+            <state relative-caret-position="374">
               <caret line="22" column="138" selection-start-line="22" selection-start-column="138" selection-end-line="22" selection-end-column="138" />
             </state>
           </provider>
@@ -60,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/redesign/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="81" column="14" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
+            <state relative-caret-position="342">
+              <caret line="127" column="36" selection-start-line="127" selection-start-column="36" selection-end-line="127" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -69,8 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/redesign/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+            <state relative-caret-position="466">
+              <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -84,9 +88,14 @@
       <find>170</find>
       <find>bcb</find>
       <find>light</find>
-      <find>hover</find>
       <find>border-bott</find>
       <find>bg-c</find>
+      <find>hover</find>
+      <find>kz</find>
+      <find>bcbe</find>
+      <find>radi</find>
+      <find>div span</find>
+      <find>4d</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -174,18 +183,19 @@
       <option name="presentableId" value="Default" />
       <updated>1564849107329</updated>
       <workItem from="1564849108537" duration="755000" />
-      <workItem from="1622336477100" duration="4848000" />
+      <workItem from="1622336477100" duration="5443000" />
+      <workItem from="1622402002581" duration="1999000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5603000" />
+    <option name="totallyTimeSpent" value="8197000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -217,6 +227,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="138" selection-start-line="21" selection-start-column="138" selection-end-line="21" selection-end-column="138" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/kollection.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -233,29 +250,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/switchgear.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
+        <state relative-caret-position="374">
           <caret line="22" column="138" selection-start-line="22" selection-start-column="138" selection-end-line="22" selection-end-column="138" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="138" selection-start-line="21" selection-start-column="138" selection-end-line="21" selection-end-column="138" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/redesign/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+        <state relative-caret-position="466">
+          <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/redesign/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="81" column="14" selection-start-line="81" selection-start-column="14" selection-end-line="81" selection-end-column="14" />
+        <state relative-caret-position="342">
+          <caret line="127" column="36" selection-start-line="127" selection-start-column="36" selection-end-line="127" selection-end-column="36" />
         </state>
       </provider>
     </entry>

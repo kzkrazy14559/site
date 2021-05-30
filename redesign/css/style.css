@@ -1,7 +1,7 @@
 /* Website template by freewebsitetemplates.com */
 body {
 	background: url(../images/bg-body.jpg) repeat left top;
-	color: #bcbec0;
+	color: #000000;
 	font-family: Georgia, "Times New Roman", Times, serif;
 	font-size: 16px;
 	margin: 0;
@@ -109,7 +109,7 @@ p a:hover {
 }
 
 #header div ul li a:hover {
-	color: #ffffff;
+	color: #fff75e;
 }
 #header div ul li.current a {
 	border-bottom: 2px solid #69bd27;
@@ -120,9 +120,12 @@ p a:hover {
 	padding: 0 20px;
 }
 #body {
-	background-color: #323f34;
+background: rgb(227,224,137);
+background: radial-gradient(circle, rgb(144 52 52) 33%, rgb(74 26 26) 100%);
+
+	/*background-color: #dcf4e2;*/
 	/*background: url(../images/kz_bg_content.png) repeat;*/
-	border-bottom: 2px solid #2a3f2e;
+	border-bottom: 2px solid #5a0404;
 	border-top: 1px solid #000000;
 	padding: 0 0 45px;
 	width: 100%;
@@ -235,8 +238,6 @@ p a:hover {
 	text-shadow: 0px 2px #381120;
 }
 #body div span {
-	color: #75515f;
-	display: block;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 14px;
 	line-height: 24px;
@@ -392,4 +393,13 @@ p a:hover {
 	margin: 0;
 	text-align: right;
 	width: 470px;
+}
+.inner_box {
+	border: 3px solid #69bd27;
+    padding: 5px;
+    width: 45%;
+    background-color: #f3f5a1;
+	color: #000000;
+	display: inline-block;
+
 }
