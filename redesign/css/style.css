@@ -34,7 +34,6 @@ p a:hover {
 	background: none;
 	height: 170px;
 	margin: 0 auto;
-	overflow: hidden;
 	text-align: center;
 	width: 660px;
 }
@@ -43,7 +42,6 @@ p a:hover {
 	float: left;
 	height: auto;
 	margin: 0;
-	overflow: hidden;
 	padding: 75px 0 0 50px;
 	width: auto;
 }
@@ -129,11 +127,6 @@ background: radial-gradient(circle, rgb(144 52 52) 33%, rgb(74 26 26) 100%);
 	border-top: 1px solid #000000;
 	padding: 0 0 45px;
 	width: 100%;
-}
-#body div {
-	margin: 0 auto;
-	padding: 68px 0 0;
-	width: 940px;
 }
 #body div ul#featured {
 	list-style: none;
@@ -240,8 +233,6 @@ background: radial-gradient(circle, rgb(144 52 52) 33%, rgb(74 26 26) 100%);
 #body div span {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 14px;
-	line-height: 24px;
-	text-align: justify;
 }
 #body div span a {
 	color: #75515f;
@@ -278,25 +269,11 @@ background: radial-gradient(circle, rgb(144 52 52) 33%, rgb(74 26 26) 100%);
 	text-shadow: 0 1px #381120;
 	text-transform: uppercase;
 }
-#body div table tr {
-	display: block;
-	padding: 0 0 15px;
-}
-#body div table tr td:first-child {
-	padding: 0;
-	width: 170px;
-}
-#body div table tr td {
-	line-height: 30px;
-	padding: 0;
-	text-shadow: 0 1px #381120;
-}
 #body div table tr td a {
 	color: #BCBEC0;
 	text-decoration: none;
 }
 #body div div {
-	overflow: hidden;
 	padding: 0;
 	width: auto;
 }
@@ -397,9 +374,33 @@ background: radial-gradient(circle, rgb(144 52 52) 33%, rgb(74 26 26) 100%);
 .inner_box {
 	border: 3px solid #69bd27;
     padding: 5px;
-    width: 45%;
+    /*width: 45%;*/
     background-color: #f3f5a1;
 	color: #000000;
 	display: inline-block;
+	text-align: center;
+}
 
+.bike_image_row img  {
+	width: 250px;
+	border-radius: 10px;
+}
+
+.bike_description_row div  {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#bike_table td {
+	padding: 5px;
+}
+
+#bike_table {
+	margin: 38px auto 0 auto;
+}
+
+.center_container {
+	margin: 0 auto;
+	padding: 68px 0 0;
+	width: 940px;
 }
