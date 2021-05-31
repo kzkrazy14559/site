@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="113f7bd7-c6f2-4df4-8596-24c8aba9bcd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/redesign/favorites.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redesign/testimonials.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/redesign/bikes.html" beforeDir="false" afterPath="$PROJECT_DIR$/redesign/bikes.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/redesign/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/redesign/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/favorites.html" beforeDir="false" afterPath="$PROJECT_DIR$/redesign/favorites.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/home_bike.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/redesign/images/home_bike.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/redesign/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/redesign/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/testimonials.html" beforeDir="false" afterPath="$PROJECT_DIR$/redesign/testimonials.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/redesign/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="446" column="24" selection-start-line="446" selection-start-column="24" selection-end-line="446" selection-end-column="24" />
+            <state relative-caret-position="721">
+              <caret line="494" column="16" selection-start-line="494" selection-start-column="16" selection-end-line="494" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -74,8 +74,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/redesign/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+            <state relative-caret-position="656">
+              <caret line="68" column="14" lean-forward="true" selection-start-line="61" selection-start-column="8" selection-end-line="68" selection-end-column="14" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#span#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -86,8 +86,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/redesign/favorites.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="38" column="38" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="38" />
+            <state relative-caret-position="719">
+              <caret line="72" column="14" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
+              <folding>
+                <element signature="e#1706#1712#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,19 +98,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/redesign/testimonials.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="753">
-              <caret line="57" column="44" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+            <state relative-caret-position="719">
+              <caret line="76" column="14" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
+              <folding>
+                <element signature="e#2130#2136#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/redesign/bikes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+            <state relative-caret-position="223">
+              <caret line="114" column="239" selection-start-line="114" selection-start-column="239" selection-end-line="114" selection-end-column="239" />
               <folding>
                 <element signature="n#style#0;n#td#0;n#tr#6;n#tbody#0;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#8580#8586#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -117,10 +124,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>feedback</find>
-      <find>logo</find>
-      <find>170</find>
-      <find>bcb</find>
       <find>light</find>
       <find>border-bott</find>
       <find>bg-c</find>
@@ -143,9 +146,14 @@
       <find>overflow</find>
       <find>hover</find>
       <find>fff75e</find>
+      <find>emblems</find>
+      <find>body div sp</find>
+      <find>inner</find>
+      <find>header</find>
+      <find>contact</find>
       <find>a2a</find>
       <find>4d</find>
-      <find>inner</find>
+      <find>1977</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;/div&gt;</replace>
@@ -163,11 +171,11 @@
         <option value="$PROJECT_DIR$/kollection.html" />
         <option value="$PROJECT_DIR$/links.html" />
         <option value="$PROJECT_DIR$/switchgear.html" />
-        <option value="$PROJECT_DIR$/redesign/bikes.html" />
-        <option value="$PROJECT_DIR$/redesign/favorites.html" />
-        <option value="$PROJECT_DIR$/redesign/index.html" />
-        <option value="$PROJECT_DIR$/redesign/testimonials.html" />
         <option value="$PROJECT_DIR$/redesign/css/style.css" />
+        <option value="$PROJECT_DIR$/redesign/index.html" />
+        <option value="$PROJECT_DIR$/redesign/favorites.html" />
+        <option value="$PROJECT_DIR$/redesign/testimonials.html" />
+        <option value="$PROJECT_DIR$/redesign/bikes.html" />
       </list>
     </option>
   </component>
@@ -246,12 +254,12 @@
       <updated>1564849107329</updated>
       <workItem from="1564849108537" duration="755000" />
       <workItem from="1622336477100" duration="5443000" />
-      <workItem from="1622402002581" duration="11436000" />
+      <workItem from="1622402002581" duration="14903000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17634000" />
+    <option name="totallyTimeSpent" value="21101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -317,20 +325,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/redesign/bikes.html">
+    <entry file="file://$PROJECT_DIR$/redesign/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
-          <folding>
-            <element signature="n#style#0;n#td#0;n#tr#6;n#tbody#0;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="721">
+          <caret line="494" column="16" selection-start-line="494" selection-start-column="16" selection-end-line="494" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/redesign/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+        <state relative-caret-position="656">
+          <caret line="68" column="14" lean-forward="true" selection-start-line="61" selection-start-column="8" selection-end-line="68" selection-end-column="14" />
           <folding>
             <element signature="n#style#0;n#span#0;n#span#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -339,22 +344,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/redesign/favorites.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="38" column="38" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="38" />
+        <state relative-caret-position="719">
+          <caret line="72" column="14" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
+          <folding>
+            <element signature="e#1706#1712#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/redesign/testimonials.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="753">
-          <caret line="57" column="44" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+        <state relative-caret-position="719">
+          <caret line="76" column="14" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
+          <folding>
+            <element signature="e#2130#2136#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/redesign/css/style.css">
+    <entry file="file://$PROJECT_DIR$/redesign/bikes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="446" column="24" selection-start-line="446" selection-start-column="24" selection-end-line="446" selection-end-column="24" />
+        <state relative-caret-position="223">
+          <caret line="114" column="239" selection-start-line="114" selection-start-column="239" selection-end-line="114" selection-end-column="239" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#6;n#tbody#0;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#8580#8586#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

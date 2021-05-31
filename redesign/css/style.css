@@ -24,6 +24,7 @@ p a:hover {
 	background: url(../images/bg_road_header.jpg) repeat-x left top;
 	border-top: 2px solid #0b9398;
 	height: auto;
+	position: relative;
 }
 #header div:first-child {
 	background: url(../images/kz_light.png) no-repeat center top;
@@ -371,10 +372,10 @@ background: radial-gradient(circle, rgb(144 52 52) 33%, rgb(74 26 26) 100%);
 	text-align: right;
 	width: 470px;
 }
-.inner_box {
+.welcome_box {
 	/*border: 3px solid #69bd27;*/
     padding: 5px;
-    /*width: 45%;*/
+    width: 75%;
     /*background-color: #f3f5a1;*/
 	color: #000000;
 	display: inline-block;
@@ -468,4 +469,28 @@ background: radial-gradient(circle, rgb(144 52 52) 33%, rgb(74 26 26) 100%);
 
 #body .testimonial .item {
 	padding-bottom: 20px;
+	font-style: italic;
+}
+
+#body .emblems {
+	display: block;
+    float: left;
+    width: 200px;
+    margin-top: 20px;
+}
+
+#body .emblems img {
+	width: 200px;
+	display: block;
+}
+
+.contact_icons {
+	float: right;
+    position: absolute;
+    bottom: 65px;
+    right: 10px;
+}
+
+.contact_icons img {
+	padding: 0px 5px;
 }
