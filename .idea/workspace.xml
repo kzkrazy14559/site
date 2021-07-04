@@ -2,12 +2,131 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="113f7bd7-c6f2-4df4-8596-24c8aba9bcd1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/redesign/bikes.html" beforeDir="false" afterPath="$PROJECT_DIR$/redesign/bikes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/redesign/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/redesign/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/redesign/favorites.html" beforeDir="false" afterPath="$PROJECT_DIR$/redesign/favorites.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/redesign/images/home_bike.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/redesign/images/home_bike.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/redesign/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/redesign/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/redesign/testimonials.html" beforeDir="false" afterPath="$PROJECT_DIR$/redesign/testimonials.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legacy/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/$_57 (4).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/$_57 (4).JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/$_57 (5).JPG" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/$_57 (5).JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/0062.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/0062.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/124.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/124.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/76 LTD-2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/76 LTD-2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/77 LTD.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/77 LTD.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/80 LTD.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/80 LTD.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/P1010106_redone.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/P1010106_redone.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/P6060013.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/P6060013.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/P6190001.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/P6190001.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/P7080010.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/P7080010.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/P8110013.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/P8110013.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/P8130005_6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/P8130005_6.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/P8220015.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/P8220015.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/PA250004.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/PA250004.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Z1R 028.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/Z1R 028.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bullet.png" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/bullet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hr.gif" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/hr.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nav-bg.gif" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/nav-bg.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbnails/$_57 (4)_tn.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/thumbnails/$_57 (4)_tn.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbnails/$_57 (5)_tn.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/thumbnails/$_57 (5)_tn.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbnails/0062_tn.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/thumbnails/0062_tn.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbnails/124_tn.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/thumbnails/124_tn.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbnails/76 LTD-2_tn.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/thumbnails/76 LTD-2_tn.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbnails/77 LTD_tn.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/thumbnails/77 LTD_tn.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbnails/80 LTD_tn.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/thumbnails/80 LTD_tn.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbnails/P1010106_redone_tn.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/thumbnails/P1010106_redone_tn.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbnails/P6060013_tn.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/thumbnails/P6060013_tn.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbnails/P6190001_tn.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/thumbnails/P6190001_tn.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbnails/P7080010_tn.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/thumbnails/P7080010_tn.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbnails/P8110013_tn.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/thumbnails/P8110013_tn.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbnails/P8130005_6_tn.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/thumbnails/P8130005_6_tn.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbnails/P8220015_tn.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/thumbnails/P8220015_tn.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbnails/PA250004_tn.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/thumbnails/PA250004_tn.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbnails/Z1R 028_tn.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/images/thumbnails/Z1R 028_tn.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascripts/respond.js" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/javascripts/respond.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kollection.html" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/kollection.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/links.html" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/links.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/bikes.html" beforeDir="false" afterPath="$PROJECT_DIR$/bikes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/css/ie7.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/ie7.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/favorites.html" beforeDir="false" afterPath="$PROJECT_DIR$/favorites.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/acoustic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/alexshandra.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/ballerina.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/beautiful.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/bg-body.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg-body.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/bg-content.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg-content.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/bg-header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg-header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/bg-menu-left.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg-menu-left.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/bg-menu-left.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg-menu-left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/bg-menu-right.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg-menu-right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/bg-yellow.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg-yellow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/bg_road_header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg_road_header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/bikes/1976_KZ900_LTD.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bikes/1976_KZ900_LTD.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/bikes/1977_KZ1000_LTD.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bikes/1977_KZ1000_LTD.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/bikes/1977_KZ650.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bikes/1977_KZ650.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/bikes/1977_KZ650_Green.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bikes/1977_KZ650_Green.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/bikes/1978_KZ1000_Commemorative_178.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bikes/1978_KZ1000_Commemorative_178.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/bikes/1978_KZ1000_LTD.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bikes/1978_KZ1000_LTD.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/bikes/1978_KZ1000_LTD_Red.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bikes/1978_KZ1000_LTD_Red.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/bikes/1978_KZ1000_Z1R_ATP_Conversion.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bikes/1978_KZ1000_Z1R_ATP_Conversion.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/bikes/1979_KZ1000_LTD.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bikes/1979_KZ1000_LTD.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/bikes/1979_KZ1000_LTD_Black.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bikes/1979_KZ1000_LTD_Black.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/bikes/1979_KZ650.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bikes/1979_KZ650.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/bikes/1979_KZ650_Custom.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bikes/1979_KZ650_Custom.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/bikes/1980_KZ1000_Custom.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bikes/1980_KZ1000_Custom.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/bikes/1980_KZ1000_LTD.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bikes/1980_KZ1000_LTD.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/bikes/1980_KZ1000_MKII.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bikes/1980_KZ1000_MKII.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/bossa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/city.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/colorful.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/cowboy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/emblems/emblem scan Z2.psd" beforeDir="false" afterPath="$PROJECT_DIR$/private/emblem scan Z2.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/emblems/emblem scan z1.psd" beforeDir="false" afterPath="$PROJECT_DIR$/private/emblem scan z1.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/emblems/kawasaki.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/emblems/kawasaki.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/emblems/kz1000.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/emblems/kz1000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/emblems/kz1000_ltd.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/emblems/kz1000_ltd.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/emblems/kz1000_z1r.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/emblems/kz1000_z1r.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/emblems/z1900.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/emblems/z1900.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/favorites/750.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/favorites/750.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/favorites/paintworks.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/favorites/paintworks.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/flag.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/flag.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/footer-shadow.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/footer-shadow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/gmail.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/gmail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/home_bike.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/home_bike.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/icons.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/icons.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/imprints.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/instagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/instagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/kz_bg_content.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/kz_bg_content.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/kz_header_bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kz_header_bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/kz_header_bg.psd" beforeDir="false" afterPath="$PROJECT_DIR$/images/kz_header_bg.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/kz_light.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/kz_light.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/kz_light.psd" beforeDir="false" afterPath="$PROJECT_DIR$/images/kz_light.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/kz_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/kz_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/kz_logo.psd" beforeDir="false" afterPath="$PROJECT_DIR$/images/kz_logo.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/kz_logo2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/kz_logo2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/kz_logo2.psd" beforeDir="false" afterPath="$PROJECT_DIR$/images/kz_logo2.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/kz_logo_big2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/kz_logo_big2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/kz_logo_big2.psd" beforeDir="false" afterPath="$PROJECT_DIR$/private/kz_logo_big2.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/light.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/light.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/meguro_flag.psd" beforeDir="false" afterPath="$PROJECT_DIR$/private/meguro_flag.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/nursery.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/soul-rhythm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/spa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/white-and-blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/images/wildbirds.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/newrelease.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/testimonials.html" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/topseller.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/redesign/vinylrecordshopwebtemplate.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/github-dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/stylesheets/github-dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/stylesheets/ie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/stylesheets/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/stylesheets/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/switchgear.html" beforeDir="false" afterPath="$PROJECT_DIR$/legacy/switchgear.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,116 +137,59 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/private/meguro_flag.psd">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="138" selection-end-line="49" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/images/bg-menu-left.gif">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kollection.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="288" column="28" selection-start-line="39" selection-start-column="20" selection-end-line="288" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/links.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="138" selection-start-line="22" selection-start-column="138" selection-end-line="22" selection-end-column="138" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/switchgear.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="138" selection-start-line="22" selection-start-column="138" selection-end-line="22" selection-end-column="138" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/redesign/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="721">
-              <caret line="494" column="16" selection-start-line="494" selection-start-column="16" selection-end-line="494" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/redesign/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="656">
-              <caret line="68" column="14" lean-forward="true" selection-start-line="61" selection-start-column="8" selection-end-line="68" selection-end-column="14" />
-              <folding>
-                <element signature="n#style#0;n#span#0;n#span#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/redesign/favorites.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="719">
-              <caret line="72" column="14" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
-              <folding>
-                <element signature="e#1706#1712#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/redesign/testimonials.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="719">
-              <caret line="76" column="14" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
-              <folding>
-                <element signature="e#2130#2136#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/images/emblems/kz1000.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/redesign/bikes.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="114" column="239" selection-start-line="114" selection-start-column="239" selection-end-line="114" selection-end-column="239" />
-              <folding>
-                <element signature="n#style#0;n#td#0;n#tr#6;n#tbody#0;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#8580#8586#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/images/emblems/kz1000_z1r.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/icons.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/home_bike.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/gmail.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/footer-shadow.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/flag.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/bg_road_header.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>light</find>
-      <find>border-bott</find>
-      <find>bg-c</find>
-      <find>kz</find>
       <find>bcbe</find>
       <find>radi</find>
       <find>div span</find>
@@ -154,6 +216,10 @@
       <find>a2a</find>
       <find>4d</find>
       <find>1977</find>
+      <find>testim</find>
+      <find>stylesheets</find>
+      <find>respond</find>
+      <find>Z1r</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;/div&gt;</replace>
@@ -171,15 +237,17 @@
         <option value="$PROJECT_DIR$/kollection.html" />
         <option value="$PROJECT_DIR$/links.html" />
         <option value="$PROJECT_DIR$/switchgear.html" />
-        <option value="$PROJECT_DIR$/redesign/css/style.css" />
         <option value="$PROJECT_DIR$/redesign/index.html" />
-        <option value="$PROJECT_DIR$/redesign/favorites.html" />
         <option value="$PROJECT_DIR$/redesign/testimonials.html" />
         <option value="$PROJECT_DIR$/redesign/bikes.html" />
+        <option value="$PROJECT_DIR$/redesign/css/style.css" />
+        <option value="$PROJECT_DIR$/redesign/favorites.html" />
+        <option value="$PROJECT_DIR$/legacy/contact.html" />
+        <option value="$PROJECT_DIR$/legacy/links.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -190,6 +258,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,19 +274,19 @@
             <path>
               <item name="site" type="b2602c69:ProjectViewProjectNode" />
               <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="redesign" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="emblems" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="site" type="b2602c69:ProjectViewProjectNode" />
               <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="redesign" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="favorites" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,6 +295,10 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Matt\Documents\GitHub\site" />
+      <recent name="C:\Users\Matt\Documents\GitHub\site\legacy" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Matt\Documents\GitHub\site\redesign" />
     </key>
@@ -254,18 +327,19 @@
       <updated>1564849107329</updated>
       <workItem from="1564849108537" duration="755000" />
       <workItem from="1622336477100" duration="5443000" />
-      <workItem from="1622402002581" duration="14903000" />
+      <workItem from="1622402002581" duration="16719000" />
+      <workItem from="1623530911602" duration="13000" />
+      <workItem from="1625369250819" duration="749000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21101000" />
+    <option name="totallyTimeSpent" value="23679000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1369936" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1401919" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -290,88 +364,177 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/contact.html">
+    <entry file="file://$PROJECT_DIR$/legacy/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/links.html">
+    <entry file="file://$PROJECT_DIR$/params.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/legacy/links.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="138" selection-start-line="22" selection-start-column="138" selection-end-line="22" selection-end-column="138" />
+        <state relative-caret-position="102">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/switchgear.html">
+    <entry file="file://$PROJECT_DIR$/legacy/javascripts/respond.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="138" selection-start-line="22" selection-start-column="138" selection-end-line="22" selection-end-column="138" />
+        <state relative-caret-position="391">
+          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kollection.html">
+    <entry file="file://$PROJECT_DIR$/bikes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="288" column="28" selection-start-line="39" selection-start-column="20" selection-end-line="288" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="138" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redesign/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="721">
-          <caret line="494" column="16" selection-start-line="494" selection-start-column="16" selection-end-line="494" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redesign/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="68" column="14" lean-forward="true" selection-start-line="61" selection-start-column="8" selection-end-line="68" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#span#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redesign/favorites.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="719">
-          <caret line="72" column="14" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
-          <folding>
-            <element signature="e#1706#1712#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redesign/testimonials.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="719">
-          <caret line="76" column="14" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
-          <folding>
-            <element signature="e#2130#2136#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redesign/bikes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="114" column="239" selection-start-line="114" selection-start-column="239" selection-end-line="114" selection-end-column="239" />
+        <state relative-caret-position="425">
+          <caret line="25" column="62" lean-forward="true" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
           <folding>
             <element signature="n#style#0;n#td#0;n#tr#6;n#tbody#0;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#8580#8586#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bikes/1977_KZ650.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bikes/1977_KZ1000_LTD.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bikes/1978_KZ1000_LTD_Red.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bikes/1979_KZ650_Custom.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bikes/1979_KZ1000_LTD_Black.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/emblems/kz1000_ltd.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/favorites/750.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/legacy/images/thumbnails/76 LTD-2_tn.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/legacy/images/thumbnails/P6060013_tn.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/legacy/images/thumbnails/P8110013_tn.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/acoustic.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/alexshandra.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/ballerina.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/beautiful.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/legacy/images/thumbnails/PA250004_tn.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bg-body.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bg-content.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bg-header.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bg-menu-left.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bg-menu-right.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bg-yellow.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bossa.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/city.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/colorful.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/cowboy.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/wildbirds.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/white-and-blue.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/soul-rhythm.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/spa.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/nursery.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/light.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/kz_logo_big2.psd">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/kz_logo_big2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/imprints.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/instagram.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/icons.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/home_bike.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/gmail.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/footer-shadow.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/flag.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bg_road_header.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/meguro_flag.psd">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bg-menu-left.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/emblems/kz1000.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/emblems/kz1000_z1r.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
