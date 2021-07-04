@@ -390,10 +390,16 @@ background: radial-gradient(circle, rgb(144 52 52) 33%, rgb(74 26 26) 100%);
 .bike_description_row div  {
 	text-align: center;
 	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #cbcbcb;
 }
 
 #bike_table td {
 	padding: 5px;
+}
+
+#bike_table .bike_description_row td {
+	padding-bottom: 25px;
 }
 
 #bike_table {

@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="113f7bd7-c6f2-4df4-8596-24c8aba9bcd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/memorabilia.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bikes.html" beforeDir="false" afterPath="$PROJECT_DIR$/bikes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favorites.html" beforeDir="false" afterPath="$PROJECT_DIR$/favorites.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testimonials.html" beforeDir="false" afterPath="$PROJECT_DIR$/testimonials.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memorabilia.html" beforeDir="false" afterPath="$PROJECT_DIR$/memorabilia.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +45,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="478">
+              <caret line="401" column="22" selection-start-line="401" selection-start-column="22" selection-end-line="401" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/favorites.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -79,18 +84,21 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/memorabilia.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="111" column="86" selection-start-line="111" selection-start-column="86" selection-end-line="111" selection-end-column="86" />
+            <state relative-caret-position="124">
+              <caret line="163" column="48" selection-start-line="163" selection-start-column="48" selection-end-line="163" selection-end-column="48" />
+              <folding>
+                <element signature="e#7111#7117#0" expanded="true" />
+                <element signature="e#7151#7157#0" expanded="true" />
+                <element signature="e#7191#7197#0" expanded="true" />
+                <element signature="e#7342#7348#0" expanded="true" />
+                <element signature="e#7382#7388#0" expanded="true" />
+                <element signature="e#7422#7428#0" expanded="true" />
+              </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/bg_road_header.jpg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -155,10 +163,11 @@
         <option value="$PROJECT_DIR$/bikes.html" />
         <option value="$PROJECT_DIR$/testimonials.html" />
         <option value="$PROJECT_DIR$/memorabilia.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -176,6 +185,11 @@
             <path>
               <item name="site" type="b2602c69:ProjectViewProjectNode" />
               <item name="site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="site" type="b2602c69:ProjectViewProjectNode" />
@@ -242,12 +256,12 @@
       <workItem from="1622336477100" duration="5443000" />
       <workItem from="1622402002581" duration="16719000" />
       <workItem from="1623530911602" duration="13000" />
-      <workItem from="1625369250819" duration="2219000" />
+      <workItem from="1625369250819" duration="3530000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25149000" />
+    <option name="totallyTimeSpent" value="26460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -278,9 +292,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/bikes/1977_KZ650.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/bikes/1977_KZ1000_LTD.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -452,8 +463,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/memorabilia.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="111" column="86" selection-start-line="111" selection-start-column="86" selection-end-line="111" selection-end-column="86" />
+        <state relative-caret-position="124">
+          <caret line="163" column="48" selection-start-line="163" selection-start-column="48" selection-end-line="163" selection-end-column="48" />
+          <folding>
+            <element signature="e#7111#7117#0" expanded="true" />
+            <element signature="e#7151#7157#0" expanded="true" />
+            <element signature="e#7191#7197#0" expanded="true" />
+            <element signature="e#7342#7348#0" expanded="true" />
+            <element signature="e#7382#7388#0" expanded="true" />
+            <element signature="e#7422#7428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="401" column="22" selection-start-line="401" selection-start-column="22" selection-end-line="401" selection-end-column="22" />
         </state>
       </provider>
     </entry>
